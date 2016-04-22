@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <properties>
-      <jar.final.name>javafx-raspverry-pi-tests</jar.final.name>
+      <jar.final.name>javafx-raspberry-pi-tests</jar.final.name>
       <main.class>de.schwellach.examples.javafx.raspberrypi.App</main.class>
    </properties>
    
